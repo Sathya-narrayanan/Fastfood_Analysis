@@ -12,8 +12,6 @@ Delivered insights to support healthier menu strategies and customer awareness
 
 ## 🔹 Tools & Technologies Used
 
-SQL → Data querying and nutritional analysis
-
 Microsoft Excel → Data cleaning and preprocessing
 
 Power BI → Interactive dashboard creation and visualization
